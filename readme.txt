@@ -1,5 +1,6 @@
 phpMC - By Below Average *
 **************************
+v1.4.4 - new look and better support for all browsers fast loading
 v1.4.2 - Fixed the config file links...
 
 v1.4.1 - Fixed the pinger on the home page to work once again.
